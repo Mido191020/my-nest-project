@@ -1,0 +1,33 @@
+
+I finished the provider topic and made a simple project.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                      Notes
+///////////////////////////////////////////////////////////
+thender client test requests.
+HTTP GET --> controller --> service
+creat CRUD(nest g resourses name)
+							(model)
+								  |
+								users order
+route 
+http veribel method
+order important.
+if you have a specific static route it should before the dynamic.
+validation pipe.
+**Class Transformer** 
+**Class Validator** 
+[[HTTP Request Methods]]
